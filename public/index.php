@@ -12,13 +12,13 @@
     <meta name="color-scheme" content="light">
     <meta property="og:title" content="Undangan Khitanan Ajlan Zaydan">
     <meta property="og:description" content="Tanpa mengurangi rasa hormat. Kami mengundang Bapak/Ibu/Saudara/i serta kerabat sekalian untuk menghadiri acara Khitanan Ajlan Zaydan">
-    <meta property="og:image" content="https://ajlan-zaydan.vercel.app/bg.jpeg">
+    <meta property="og:image" content="https://ajlan-zaydan.lovestoblog.com/bg.jpeg">
     <meta property="og:image:type" content="image/jpeg">
-    <meta property="og:image:alt" content="https://ajlan-zaydan.vercel.app/">
+    <meta property="og:image:alt" content="https://ajlan-zaydan.lovestoblog.com/">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="id_ID">
     <meta property="og:site_name" content="Undangan">
-    <meta property="og:url" content="https://ajlan-zaydan.vercel.app/">
+    <meta property="og:url" content="https://ajlan-zaydan.lovestoblog.com/">
     <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin="anonymous">
     <link rel="preconnect" href="https://back-end-ts.vercel.app" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="anonymous">
